@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="/style.css">
+
 # Free Subdomains
 The Free Subdomain List we try to update frequently.
 
