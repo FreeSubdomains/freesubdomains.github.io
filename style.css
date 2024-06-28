@@ -1,0 +1,35 @@
+/* Background */
+body {
+  background-color: #343A6B; /* Dark purplish blue */
+}
+
+/* Text and elements */
+* {
+  color: #FF37DF; /* Neon purplish pink */
+  text-shadow: 0 0 10px #FF37DF; /* Add a neon glow effect */
+  border-color: #FF37DF; /* Apply to borders */
+  box-shadow: 0 0 10px #FF37DF; /* Add a neon glow effect */
+}
+
+/* Links */
+a {
+  color: #FF37DF; /* Neon purplish pink */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFFFFF; /* White */
+  text-decoration: underline;
+}
+
+/* Other elements */
+button, input, select, textarea {
+  background-color: #343A6B; /* Dark purplish blue */
+  color: #FF37DF; /* Neon purplish pink */
+  border-color: #FF37DF; /* Apply to borders */
+}
+
+button:hover, input:hover, select:hover, textarea:hover {
+  background-color: #FF37DF; /* Neon purplish pink */
+  color: #FFFFFF; /* White */
+}
