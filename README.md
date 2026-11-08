@@ -14,4 +14,5 @@ Last update: `28th June`
 | proj.sbs   | \*.proj.sbs                      | More than 14 days | Must be open source            |
 | foo.ng     | \*.foo.ng                        | 1-2 days          |                                |
 | rweb.site  | \*.rweb.site                     | 1-3 days          |                                |
+| does.software | \*.does.software             | Instant           | Must be software or development related |
 | FreeDNS    | Various subdomains (few hundred) |                   | No CNAME records, poor support |
